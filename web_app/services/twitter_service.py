@@ -32,7 +32,7 @@ if __name__ == "__main__":
 
     api = twitter_api_client()
 
-    screen_name = "elonmusk"
+    screen_name = "dog_feelings"
 
     print("--------------")
     print("USER...")

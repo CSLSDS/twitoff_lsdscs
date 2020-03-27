@@ -16,7 +16,7 @@ from web_app.routes.stats_routes import stats_routes
 
 load_dotenv()
 
-DATABASE_URL = os.getenv("DATABASE_URL", default="sqlite:///web_app_12.db")
+DATABASE_URL = os.getenv("DATABASE_URL", default="sqlite:////home/yousir/u3/my-web-app-12/web_app/web_app_12.db")
 
 def create_app():
     app = Flask(__name__)
