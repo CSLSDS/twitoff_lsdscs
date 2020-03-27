@@ -5,7 +5,7 @@
 Fork and clone the repo, then navigate there from the command-line:
 
 ```sh
-cd my-web-app-12/
+cd twitoff_lsdscs
 ```
 
 Setup and activate the virtual environment, and install package dependencies:
